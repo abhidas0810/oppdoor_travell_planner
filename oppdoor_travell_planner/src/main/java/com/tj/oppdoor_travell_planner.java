@@ -7,10 +7,10 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
 @EnableSwagger2
 @SpringBootApplication
-public class ProjectTravelJunkyApplication {
+public class oppdoor_travell_planner {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ProjectTravelJunkyApplication.class, args);
+		SpringApplication.run(oppdoor_travell_planner.class, args);
 	}
 
 }
